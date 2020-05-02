@@ -2,6 +2,7 @@
 
 ## Honeypots Deployed
 The Dionaea honeypot was deployed to the MHN server.
+<img src="mhn4.gif" width="800">
 
 ## Issues Encountered
 I encountered several issues. I had issues setting up the SSH because I was setting it up in PowerShell, but I found out I didn't need to do it in PowerShell. Another issue I encountered was exporting data. It took a long time to figure this out because I was inputting the wrong command, so I had to deviate from the instructions slightly.
